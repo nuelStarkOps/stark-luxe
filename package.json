@@ -1,6 +1,6 @@
 {
-  "homepage": "http://nuelstarkops.github.io/stark-luxe",
-  "name": "vite_react_shadcn_ts",
+  "name": "stark-luxe",
+  "homepage": "https://nuelstarkops.github.io/stark-luxe/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
