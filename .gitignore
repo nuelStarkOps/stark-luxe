@@ -1,0 +1,47 @@
+# Node modules and build artifacts
+node_modules
+dist
+dist-ssr
+*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+*.log
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Environment variables
+.env
+.env.*.local
+
+# Dependency directories
+.bun
+bun.lockb
+
+# Build cache
+.cache
+.eslintcache
+vite.config.ts.timestamp-*
+
+# TypeScript
+*.tsbuildinfo
+
+# Misc
+Thumbs.db
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
